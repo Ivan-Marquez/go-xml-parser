@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MerchantResponse xmlns:xsd="http://www.w3.org/2001/XMLSchema" 
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+  xmlns="http://networkpot.com/">
+  <ErrorCode>NoError</ErrorCode>
+  <CustomerID>22346354</CustomerID>
+  <AuthToken>ABC1234</AuthToken>
+  <Balance>0</Balance>
+  <OpenBetsBalance>0</OpenBetsBalance>
+  <TransactionID>-1</TransactionID>
+</MerchantResponse>
